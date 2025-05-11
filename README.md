@@ -1,17 +1,30 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Kelvin Genao
 
-# ¡Hola! Soy Kelvin Genao
+Soy **Data Scientist & Data Analyst Freelance**. Ayudo a negocios de marketing, e-commerce y proyectos digitales a convertir sus datos en decisiones estratégicas que impulsan su crecimiento.
 
-Soy analista de datos apasionado por convertir datos en decisiones. Me encanta explorar herramientas y técnicas que impulsen el análisis inteligente y predictivo.
+🔍 **¿Qué hago?**
+- Limpieza y análisis de datos para detectar patrones, tendencias y oportunidades.
+- Visualizaciones claras y accionables para responder preguntas clave del negocio.
+- Modelos predictivos para anticipar ventas, comportamiento de clientes y más.
+- Automatización de reportes con KPIs siempre actualizados.
+- Estrategias de marketing basadas en datos, no suposiciones.
 
-Actualmente estoy aprendiendo **scikit-learn** para crear modelos predictivos y seguir mejorando mis habilidades en ciencia de datos.
+⚙️ **Tecnologías que uso**
+- Python (Pandas, NumPy, Seaborn, Scikit-learn)
+- SQL
+- Power BI, Tableau, Looker Studio
+- Excel
 
-## Idiomas
+🎯 **Con formación en marketing digital**, traduzco datos complejos en acciones de negocio concretas.
+
+🗣️ **Idiomas:**
 - Español (nativo)
-- Inglés (aprendiendo)
+- Inglés (nivel intermedio bajo – actualmente en aprendizaje con dominio básico para comunicación técnica)
 
-> **"Never stop learning – Nunca pares de aprender"**  
+📫 ¿Tienes una agencia, tienda online o startup y quieres crecer con datos?  
+**Conectemos en [LinkedIn](https://www.linkedin.com/in/kelvingenao/)**
+
+> “Never stop learning – Nunca pares de aprender”  
 > — Platzi
 
-[LinkedIn](www.linkedin.com/in/kelvin-genao-a7621833b) 
 
