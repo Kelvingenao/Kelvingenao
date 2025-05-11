@@ -22,7 +22,7 @@ Soy **Data Scientist & Data Analyst Freelance**. Ayudo a negocios de marketing, 
 - Inglés (nivel intermedio bajo – actualmente en aprendizaje con dominio básico para comunicación técnica)
 
 📫 ¿Tienes una agencia, tienda online o startup y quieres crecer con datos?  
-**Conectemos en [LinkedIn](www.linkedin.com/in/kelvin-genao-a7621833b)**
+**Conectemos en [LinkedIn](https://www.linkedin.com/in/kelvin-genao-a7621833b/)**
 
 > “Never stop learning – Nunca pares de aprender”  
 > — Platzi
