@@ -1,30 +1,33 @@
-# 👋 ¡Hola! Soy Kelvin Genao
+👋 Hello! I'm Kelvin Genao  
+I'm a Freelance Data Scientist & Data Analyst. I help marketing businesses, e-commerce stores, and digital projects turn their data into strategic decisions that drive real growth.
 
-Soy **Data Scientist & Data Analyst Freelance**. Ayudo a negocios de marketing, e-commerce y proyectos digitales a convertir sus datos en decisiones estratégicas que impulsan su crecimiento.
+🔍 What do I do?
 
-🔍 **¿Qué hago?**
-- Limpieza y análisis de datos para detectar patrones, tendencias y oportunidades.
-- Visualizaciones claras y accionables para responder preguntas clave del negocio.
-- Modelos predictivos para anticipar ventas, comportamiento de clientes y más.
-- Automatización de reportes con KPIs siempre actualizados.
-- Estrategias de marketing basadas en datos, no suposiciones.
+- Clean and analyze data to uncover patterns, trends, and business opportunities.
+- Create clear, actionable visualizations to answer key business questions.
+- Build predictive models to forecast sales, customer behavior, and more.
+- Automate reports with real-time KPIs.
+- Develop marketing strategies based on data — not guesses.
 
-⚙️ **Tecnologías que uso**
+⚙️ Tools & Technologies
+
 - Python (Pandas, NumPy, Seaborn, Scikit-learn)
 - SQL
 - Power BI, Tableau, Looker Studio
 - Excel
 
-🎯 **Con formación en marketing digital**, traduzco datos complejos en acciones de negocio concretas.
+🎯 With a background in digital marketing, I translate complex data into concrete business actions.
 
-🗣️ **Idiomas:**
-- Español (nativo)
-- Inglés (nivel intermedio bajo – actualmente en aprendizaje con dominio básico para comunicación técnica)
+🗣️ Languages:
 
-📫 ¿Tienes una agencia, tienda online o startup y quieres crecer con datos?  
-**Conectemos en [LinkedIn](https://www.linkedin.com/in/kelvin-genao-a7621833b/)**
+- Spanish (native)
+- English (basic-intermediate – currently improving, with functional knowledge for technical communication)
+
+📫 Do you run a marketing agency, online store, or startup and want to grow using data?  
+Let's connect on [LinkedIn](https://www.linkedin.com/in/kelvin-genao-carmona-a7621833b/)
 
 > “Never stop learning – Nunca pares de aprender”  
 > — Platzi
+
 
 
