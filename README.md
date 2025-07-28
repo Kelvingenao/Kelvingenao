@@ -1,4 +1,4 @@
-👋 Hello! I'm Kelvin Genao
+👋 Hello! I'm Kelvin Genao Carmona
 I'm a Freelance Data Scientist & Data Analyst. I help marketing agencies, e-commerce stores, and digital businesses turn their data into strategic decisions that drive real growth.
 
 🔍 What do I do?
